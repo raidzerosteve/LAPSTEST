@@ -1,2 +1,0 @@
-# LAPSTEST
-TestingLAPSONLY
